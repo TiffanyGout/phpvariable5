@@ -15,7 +15,7 @@ $month[10] = 'Novembre';
 $month[11] = 'Décembre';
     echo $month[2] . "</br>" ; //exercice2
     echo $month[4] . "</br>"; //exercice3
-    echo str_replace('u','û','Aout') . "</br>";//exercice4
+    echo $month[7] = "Août" . "</br>";//exercice4
 
 $HautDeFrance =array(//exercice5
     '02' => "Aisne",
